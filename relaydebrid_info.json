@@ -1,7 +1,7 @@
 {
   "data": {
-    "latest": "1.46",
-    "download": "",
+    "latest": "1.47",
+    "download": "https://github.com/Galactica21/relaydebrid-maj/releases/download/v1.47/Setup_RelayDebrid_1.47.exe",
     "message": "",
     "revoked": [
       "01DA60D4",
@@ -41,5 +41,5 @@
     ],
     "issued": "2026-11-01"
   },
-  "sig": "y2ZwVvJak/kGJFtiYlCusUeqknSOkYWuSsOJGxhFPJ/CxNdHLnNLv4XOQ6idJgMsU9cbI8NB/pBCctn3gKeTCQ=="
+  "sig": "B9XnxYSO3YdkPozsXPJ0pUjZQmxQWEsrJtmMKYFpW4XfOYneGIkj9V0wxWZkUBKHlwAmn3NvJxvzJxR93xFVCw=="
 }
